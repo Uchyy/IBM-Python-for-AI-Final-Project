@@ -11,3 +11,4 @@ Task 6: Web deployment of the application using Flask
 Task 7: Incorporate error handling
 Task 8: Run static code analysis
 
+
